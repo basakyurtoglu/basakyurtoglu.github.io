@@ -1,5 +1,5 @@
 body {
-    background-color: #2E2E2E;
+    background-color: #323232;
     margin: 2% 20% 0% 20%;
     border: 1px dashed gray;
     border-radius: 15px;
@@ -42,8 +42,8 @@ img {
 
 .button{
  text-decoration:none; text-align:center;
- padding:4px 24px;
- border:none;
+ padding: 4px 24px;
+ border:0;
  -webkit-border-radius:26px;
  -moz-border-radius:26px;
  border-radius: 26px;
@@ -65,7 +65,7 @@ img {
 
 .button:hover{
  padding:4px 24px;
- border:none;
+ border:0;
  -webkit-border-radius:26px;
  -moz-border-radius:26px;
  border-radius: 26px;
@@ -87,7 +87,7 @@ img {
 
 .button:active{
  padding:4px 24px;
- border:none;
+ border:0;
  -webkit-border-radius:26px;
  -moz-border-radius:26px;
  border-radius: 26px;
